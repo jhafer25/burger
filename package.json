@@ -11,6 +11,9 @@
     "type": "git",
     "url": "git+https://github.com/jhafer25/burger.git"
   },
+  "keywords": [
+    "burgers"
+  ],
   "author": "jhafer",
   "license": "ISC",
   "bugs": {
