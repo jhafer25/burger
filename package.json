@@ -1,5 +1,5 @@
 {
-  "name": "burger.github.io",
+  "name": "burger",
   "version": "1.0.0",
   "description": "eat-da-burger",
   "main": "index.js",
@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jhafer25/burger.github.io.git"
+    "url": "git+https://github.com/jhafer25/burger.git"
   },
   "author": "jhafer",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/jhafer25/burger.github.io/issues"
+    "url": "https://github.com/jhafer25/burger./issues"
   },
-  "homepage": "https://github.com/jhafer25/burger.github.io#readme",
+  "homepage": "https://github.com/jhafer25/burger#readme",
   "dependencies": {
     "body-parser": "^1.18.2",
     "express": "^4.16.2",
